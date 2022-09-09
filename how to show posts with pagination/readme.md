@@ -5,4 +5,5 @@
 Post title: the_title();<br>
 Post Featured Image: the_post_thumbnail('size');<br>
 Post Short Description: the_excerpt();
-
+<br>
+paginate_links() use to show the pagination
